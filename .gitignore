@@ -1,0 +1,9 @@
+venv/
+venv*/
+venv_mistral/
+venv_mistral*/
+venv_mistral
+.env/
+data/raw/wildchat_news/data-00000-of-00001.arrow
+data/raw/dataset_info.json
+data/raw/wildchat_news/state.json

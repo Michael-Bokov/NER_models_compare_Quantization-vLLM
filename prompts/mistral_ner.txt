@@ -1,0 +1,9 @@
+Extract named entities from the following dialogue. 
+Return them as a JSON object with keys: PERSON, ORG, LOC, EVENT, DATE, IMPACT, SOURCE.
+If no entities of a type are found, use an empty list.
+Only output valid JSON, no additional text.
+
+Dialogue:
+{text}
+
+JSON output:

@@ -1,0 +1,14 @@
+datasets
+transformers==4.45.2 
+accelerate==0.34.2
+bitsandbytes==0.43.3
+accelerate
+gliner
+pandas
+matplotlib
+tqdm
+seqeval
+psutil
+huggingface-hub==0.24.7 
+sentencepiece
+protobuf
